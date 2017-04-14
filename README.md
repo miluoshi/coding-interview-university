@@ -109,7 +109,7 @@ If you want to be a reliability engineer or systems engineer, study more from th
     - [Tries](#tries)
     - [Floating Point Numbers](#floating-point-numbers)
     - [Unicode](#unicode)
-    - [Endianness](#endianness)
+    - ~~[Endianness](#endianness)~~
 - [Networking](#networking)
 - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
 - [Final Review](#final-review)
@@ -661,9 +661,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
     - [ ] 2s and 1s complement
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
-        - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
+        - ~~[1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)~~
         - [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
-    - [ ] count set bits
+    - ~~[ ] count set bits~~
         - [4 ways to count bits in a byte (video)](https://youtu.be/Hzuzo9NJrlc)
         - [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
         - [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
@@ -1153,7 +1153,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets]( http://www.joelonsoftware.com/articles/Unicode.html)
     - [ ] [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 
-- ### Endianness
+- ### ~~Endianness~~
     - [ ] [Big And Little Endian](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
     - [ ] [Big Endian Vs Little Endian (video)](https://www.youtube.com/watch?v=JrNF0KRAlyo)
     - [ ] [Big And Little Endian Inside/Out (video)](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
